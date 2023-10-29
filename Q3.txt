@@ -1,0 +1,15 @@
+Meta tags are a critical part of search engine optimization (SEO). 
+They provide concise information about a web page's content, helping search engines understand what the page is about.
+ Meta tags can also help improve a webpage's click-through rate by providing more detailed information about the content of the page.
+
+ Some of the main benefits:
+ 
+ 1)Providing relevancy
+ 2)Helping search engines determine the topic of a webpage
+ 3)Helping people understand the contents of a webpage
+ 4)Avoiding duplicate content issues
+ 5)Optimizing a website's content for specific keywords and phrases
+ 6)Improving search engine visibility
+ 7)Impacting how a site appears in the SERPs
+ 8)Impacting traffic and engagement rates
+ 9)Impacting SEO and rankings
